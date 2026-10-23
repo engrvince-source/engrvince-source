@@ -1,47 +1,67 @@
-# Hi, I'm Engr Vince 👋
+# Engr. Vince Valencia
 
-### Systems Engineer — Maritime & Digital Systems
-**Licensed Marine Engineer** · 50+ systems operated onboard · now building the systems that run maritime and service businesses
+### Systems Engineer · Maritime & Digital Systems
+**Licensed Marine Engineer**
+
+**Read the system. Fix what matters.**
+
+I spent 8 years keeping ships running at sea, then built my career across PH SMEs, maritime tech, shipbuilding and ship management. Now I apply the same discipline to business systems: finding where ERP, CRM, ads and operations leak time and money, and fixing it.
+
+**Now:** LNG newbuild project, Italy.
+
+| 50+ | $8M+ | 16 yrs |
+|:---:|:---:|:---:|
+| Shipboard systems operated | Revenue influenced | Professional experience |
+
+🌐 **Portfolio:** [engrvince.bookingsystems.io](https://engrvince.bookingsystems.io)
 
 ---
 
-## 🧭 What I do
+## 🧭 Systems I work across
 
-I spent almost a decade in ship engine rooms (oil & chemical tankers), where everything is a system: inputs, controls, alarms, maintenance. Onshore, I apply the same mindset to business operations:
+One method. Five system environments.
 
-- **Planned Maintenance Systems (PMS)** — setup, data migration, and rollout for vessels
-- **UAT for digital systems** — testing new software on ships and in the office before go-live
-- **ERP & CRM** — designing and integrating the tools a business runs on
-- **Lead generation pipelines** — Meta Ads → landing page → CRM → automation → booked call
-
-## 📊 Selected results
-
-| Work | Result |
+| Environment | What it means |
 |---|---|
-| Automotive client — Facebook Ads | **₱20M in sales in 3 months** |
-| High-ticket product campaigns | **₱100M+ in total sales** |
-| Ad accounts audited & optimized | **100+** |
-| Recognition | **International Awardee — Thailand** |
+| ⚙️ **Physical** | Understand the machinery. Protect the whole system. Physical assets, machinery, technical dependencies and reliability. |
+| 🛠️ **Maintenance** | Turn asset knowledge into reliable maintenance. Asset hierarchy, maintenance planning, work orders and equipment history. |
+| 💻 **Digital** | Connect the tools. Make information flow. Websites, applications, integrations, CRM, automation and digital infrastructure. |
+| 🤝 **Operational** | Give every handoff an owner and a clear next step. People, documentation, dependencies and coordinated project execution. |
+| 📈 **Revenue** | Connect the first click to the next customer action. Traffic, lead capture, CRM, follow-up, booking and attribution. |
 
-## 📂 Featured projects
+## 🔁 How I engineer a system
 
-| Project | What it is |
+**Read the whole → Map dependencies → Design the fix → Implement the change → Monitor real behavior → Verify & optimize**
+
+A tool, machine or campaign only makes sense inside the larger system it belongs to.
+
+---
+
+## 📊 Client results
+
+| Client | System | Result |
+|---|---|---|
+| French-brand clinic | Meta Ads | **₱41.48M** in 2025 sales, its highest year on record |
+| Toyota | Dealership ads | 1 yr of boosting, 0 results → 3 months of strategic ads, **₱20M** |
+| Alba Catering | Ads to sales | **₱30K → ₱1M** in 30 days (client's own numbers) |
+| Shop campaigns | Return on ad spend | **15.69×** · ₱7.5M of ads to ₱117.9M in shop sales |
+| Avida | Coaching | Millions in sales after Meta Ads training & coaching |
+| TOBC | IT & social systems | Long-term digital & business systems consultant |
+
+<sub>Sales figures are each business's own totals, not all from ads.</sub>
+
+## 📂 Featured work
+
+| Project | Environment |
 |---|---|
-| [Meta Ads → CRM Pipeline](https://github.com/engrvince-source/engrvince) | End-to-end lead system: Meta Ads into a GoHighLevel CRM with full automation |
+| [Revenue System: Meta Ads → CRM pipeline](https://github.com/engrvince-source/engrvince) | 📈 Revenue |
+| [PMS for shipping](https://digitals.ceaval.com/pms-for-shipping) | 🛠️ Maintenance |
+| [Your own ERP, under your company name](https://engrvince.bookingsystems.io/erp) | 💻 Digital |
 
-*More projects coming as I move my builds to GitHub.*
-
-## 🛠️ Toolbox
-
-**Maritime:** PMS · UAT · technical specifications · commissioning  
-**Business systems:** GoHighLevel · ERP · CRM · Make · systeme.io  
-**Ads & tracking:** Meta Ads Manager · Facebook Pixel · Google Analytics  
-**Building:** Git & GitHub · Claude Code · HTML/CSS · Markdown
-
-## 🌍 Languages
-
-English (advanced) · Filipino (native) · Italian & Spanish (learning)
+---
 
 ## 📫 Contact
 
-🌐 [Portfolio](https://engrvince.bookingsystems.io) · 📅 [Book a call](https://calendly.com/engrvincevalencia/30min)
+📅 [Book a discovery call](https://www.bookingsystems.io/calendar-appointment) · 💼 [LinkedIn](https://www.linkedin.com/in/engr-paul-vince-valencia/) · ▶️ [YouTube](https://www.youtube.com/@EngrVinceValencia) · ✉️ [Email](mailto:engrvincevalencia@gmail.com)
+
+*Different systems. One engineering discipline.*
